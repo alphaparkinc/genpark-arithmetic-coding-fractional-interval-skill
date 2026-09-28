@@ -1,0 +1,9 @@
+{
+  "name": "genpark-arithmetic-coding-fractional-interval-skill",
+  "version": "1.0.0",
+  "description": "High-precision fractional range subdivision arithmetic compression encoder and decoder",
+  "entry_point": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service",
+  "dependencies": []
+}
