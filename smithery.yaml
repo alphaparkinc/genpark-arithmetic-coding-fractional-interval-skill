@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-arithmetic-coding-fractional-interval-skill
+service:
+  name: genpark-arithmetic-coding-fractional-interval-skill
+  command: python
+  args:
+    - mcp_server.py
